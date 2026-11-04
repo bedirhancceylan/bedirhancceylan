@@ -1,5 +1,5 @@
 # 💻
-Hi, I'm Bedirhan Ceylan
+# Hi, I'm Bedirhan Ceylan
 
 **Computer Science & Engineering student at Sabancı University · İstanbul, Türkiye**
 

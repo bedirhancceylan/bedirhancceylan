@@ -16,4 +16,3 @@ I’m a Computer Science and Engineering student at Sabancı University with int
 
 The ISGenius team received the **TÜBİTAK BİGG 2025 Seal of Excellence**, as one of 101 ventures selected nationwide. [Sabancı University announcement](https://www.sabanciuniv.edu/tr/events/detail/28057)
 
-I’m looking for software engineering and data internships where I can contribute to backend systems, relational data modelling, testing and applied data analysis.

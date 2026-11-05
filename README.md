@@ -8,7 +8,8 @@ Computer Science and Engineering student at Sabancı University, interested in b
 
 | Project | What I have worked on | Technologies |
 | :--- | :--- | :--- |
-| **[GameVault](https://github.com/bedirhancceylan/GameVault)** · CS306 | Game distribution and community platform database design. The current phase includes an ER model, relational mapping, an executable 26-table schema, and schema verification checks. | MySQL · SQL · ER modeling |
+| **[GameVault](https://github.com/bedirhancceylan/GameVault)** 
+CS306 | Game distribution and community platform database design. The current phase includes an ER model, relational mapping, an executable 26-table schema, and schema verification checks. | MySQL · SQL · ER modeling |
 | **[Online Store](https://github.com/mertOzbey/cs308-online-store)** · CS308 | Ongoing team e-commerce project. My merged contribution configures PostgreSQL and Prisma, defines Product and Category models and migrations, and adds 16 database integration tests. Repository access is restricted to the team. | JavaScript · Node.js · PostgreSQL · Prisma · Docker Compose |
 | **[InOut](https://github.com/damland7/inout)** · CS310 | Social calorie tracker in the design stage. I contributed data requirements and technical risk analysis; the team designed 15 screens and 12 navigation flows. Implementation is planned with the stack shown here. | Flutter · Dart · Firebase · Open Food Facts API *(planned)* |
 | **[Task Completion Analysis](https://github.com/bedirhancceylan/DSA210-Project)** · DSA210 | Analysis of 486 startup task records through exploratory analysis, hypothesis testing, feature engineering, and comparison of five classification models. The selected Random Forest achieved a test ROC-AUC of 0.741. | Python · pandas · SciPy · scikit-learn · Jupyter |
